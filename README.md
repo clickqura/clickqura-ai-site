@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ClickQura IT Solutions</title>
+  <title>ClickQura AI Solutions</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="p-6 md:p-10 space-y-16 bg-gray-50">
