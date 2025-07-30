@@ -10,7 +10,7 @@
 
   <!-- Hero Section -->
   <section class="text-center space-y-4">
-    <h1 class="text-4xl font-bold text-blue-700">ClickQura IT Solutions</h1>
+    <h1 class="text-4xl font-bold text-blue-700">ClickQura AI Solutions</h1>
     <p class="text-lg text-gray-600">Smart IT Solutions Powered by AI</p>
     <button class="mt-4 px-4 py-2 text-white bg-blue-600 hover:bg-blue-700 rounded">Request a Demo</button>
   </section>
